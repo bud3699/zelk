@@ -166,3 +166,13 @@
 .root-8LYsGj[style*="--user-background"] .banner-1YaD3N {
   height: 240px;
 }
+
+/* fixes */
+.headerTop-3GPUSF,
+.nameTag-2Nlmsy.nameTag-H6kSJ0 {
+  padding-top: 2.5rem !important;
+}
+.avatarWrapper-eenWra.avatarPositionPremium-1zPBq9,
+.wrapper-1VLyxH.avatar-3QF_VA {
+  transform: translateY(75%) !important;
+}
