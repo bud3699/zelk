@@ -1913,3 +1913,13 @@ body:not(.powercord) .panels-3wFtMD::after {
 .bf-toolbar .format:active {
   background: var(--background-modifier-active) !important;
 }
+
+/* fixes */
+.headerTop-3GPUSF,
+.nameTag-2Nlmsy.nameTag-H6kSJ0 {
+  padding-top: 2.5rem !important;
+}
+.avatarWrapper-eenWra.avatarPositionPremium-1zPBq9,
+.wrapper-1VLyxH.avatar-3QF_VA {
+  transform: translateY(75%) !important;
+}
